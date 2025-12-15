@@ -5,11 +5,13 @@ description = "Add your description here"
 requires-python = ">=3.9,<3.10"
 dependencies = [
     "folium>=0.20.0",
+    "kaleido>=1.2.0",
     "notebook>=7.5.0",
     "openpyxl>=3.1.5",
     "pandas>=2.3.3",
     "pandas-stubs>=2.2.2.240807",
     "pingouin>=0.5.5",
+    "plotly>=6.5.0",
     "scikit-learn>=1.6.1",
     "scipy>=1.13.1",
     "seaborn>=0.13.2",
